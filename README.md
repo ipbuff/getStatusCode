@@ -1,6 +1,6 @@
 A convenience web app to request HTTP Status Codes.
 
-Simply set the URI to a status code and the server responds with the requested status code and status text in the body.
+Simply set the path to a status code and the server responds with the requested status code and status text in the body.
 
 ## Test
 `make test`
