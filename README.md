@@ -9,7 +9,7 @@ Simply set the path to a status code and the server responds with the requested 
 `make build`
 
 ## Live
-This service can be used at `https://getstatus.ipbuff.com/`.
+This service can be used at `https://gsc.ipbuff.com/`.
 
 ## 404 Example
 ``` 
