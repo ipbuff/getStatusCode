@@ -26,3 +26,6 @@ Content-Length: 10
 
 Not Found
 ```
+
+## Blog Post
+I've written a really short blog post on my personal website on this service. It can be found [here](https://igor.borisoglebski.com/getstatuscode).
