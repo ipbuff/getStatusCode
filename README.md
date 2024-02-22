@@ -13,7 +13,7 @@ This service can be used at `https://gsc.ipbuff.com/`.
 
 ## 404 Example
 ``` 
-curl -i https://getstatus.ipbuff.com/404
+curl -i https://gsc.ipbuff.com/404
 ```
 
 Returns:
